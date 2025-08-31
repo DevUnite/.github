@@ -2,7 +2,7 @@
 
 <div align="center">
 
-# <img src="https://raw.githubusercontent.com/devunite/.github/main/profile/logo.png" width="40" /> DevUnite
+# <img src="../design_pic.webp" width="40" /> DevUnite
 
 ### **Uniting Developers Through Real-Time Collaboration & AI-Powered Learning**
 
